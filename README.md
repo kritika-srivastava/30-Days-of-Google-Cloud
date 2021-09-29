@@ -7,7 +7,7 @@ _This repository consists the solutions of the challenge labs of various Skill B
 | Skill Badge | Link |
 |------|------|
 |1. Skill Badge: Getting Started: Create and Manage Cloud Resources | [Link](https://github.com/kritika-srivastava/30-Days-of-Google-Cloud/tree/main/1.%20Getting%20Started:%20Create%20and%20Manage%20Cloud%20Resources) |
-|2. Skill Badge: Perform Foundational Infrastructure Tasks in Google Cloud | [Link] |
+|2. Skill Badge: Perform Foundational Infrastructure Tasks in Google Cloud | [Link](https://github.com/kritika-srivastava/30-Days-of-Google-Cloud/tree/main/2.%20Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud) |
 |3. Skill Badge: Setup and Configure a Cloud Environment in Google Cloud | [Link] |
 |4. Skill Badge: Deploy and Manage Cloud Environments with Google Cloud | [Link] |
 |5. Skill Badge: Build and Secure Networks in Google Cloud | [Link] |

@@ -26,17 +26,18 @@ gcloud pubsub topics create Something
 
 2. Use the following configurations:
 
-   **Name:** SomethingCF
-   **Region:** us-east1
-   **Trigger type:** Cloud Storage
-   **Event type:** Finalize/Create
-   **Bucket:** BROWSE > Select the qwiklabs bucket
+  - **Name:** SomethingCF
+  - **Region:** us-east1
+  - **Trigger type:** Cloud Storage
+  - **Event type:** Finalize/Create
+  - **Bucket:** BROWSE > Select the qwiklabs bucket
 
 3. Leave the Remaining as default > Save >Next
 
 4. Set the following :
-   **Runtime:** Node.js 14
-   **Entry point:** thumbnail
+  - **Runtime:** Node.js 14
+  - **Entry point:** thumbnail
+  
 5. Add the code appropriately:
 - index.js 
 
