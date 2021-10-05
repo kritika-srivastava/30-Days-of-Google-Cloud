@@ -2,6 +2,8 @@
 
 _This repository consists the solutions of the challenge labs of various Skill Badges that I am completing in 30 Days of Google Cloud Program._
 
+I will keep on updating this space as and when I complete the rest of the challenge labs.
+
 ## Track 1: Cloud Engineering Track
 
 | Skill Badge | Link |
